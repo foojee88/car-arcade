@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../my-first-project-1"
+		},
+		{
+			"name": "GlobalWeatherTracker",
+			"path": "../GlobalWeatherTracker"
+		}
+	],
+	"settings": {}
+}
